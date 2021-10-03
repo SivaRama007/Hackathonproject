@@ -1,0 +1,12 @@
+com\selenium\pageClasses\HealthInsurancePage.class
+com\selenium\pageClasses\TravelInsurancePage.class
+com\selenium\utilities\ExtentManagerReport.class
+com\selenium\baseClasses\PageBaseclassUI.class
+com\selenium\utilities\DateUtil.class
+com\selenium\utilities\PropertiesFile.class
+com\selenium\pageClasses\CarInsurancePage.class
+com\selenium\utilities\ExcelwriteDataFile.class
+com\selenium\baseClasses\BasetestClass.class
+com\selenium\pageClasses\PolicyBazaarHomePage.class
+com\selenium\utilities\TestDataProvider.class
+com\selenium\utilities\ExcelReadDataFile.class
